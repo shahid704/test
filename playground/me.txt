@@ -1,0 +1,5 @@
+{{#user}} 
+Name: Shahid Sayed
+Skills: HTML, CSS, JS, React
+Email: shahidsayed399@gmail.com
+{{/user}}
